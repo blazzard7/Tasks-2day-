@@ -16,7 +16,7 @@ class Task {
 
 // Storage
 let tasks = [
-  new Task( "task1", "shop", "Купить УрПЭТовское молоко", "2024-03-15", true),  // Ensure the ID is "TASK1", the title is "shop", project_id is null or properly initialized
+  new Task( "task1", "shop", "Купить УрПЭТовское молоко", "2024-03-15", true),  
   new Task( "task2", "friday", "Посетить пару", "2024-03-16", false)
 ];
 
